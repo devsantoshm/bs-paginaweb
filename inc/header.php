@@ -1,4 +1,4 @@
-
+<header id="main-header">
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-3">
@@ -21,3 +21,4 @@
 			</div>
 		</div>
 	</div>
+</header>
