@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<?php include 'inc/head_common.php'; ?>
+	<link rel="stylesheet" href="css/detail.css">
 	<title>Workshop Primero Detalle</title>
 </head>
 <body>

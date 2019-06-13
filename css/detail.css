@@ -1,0 +1,79 @@
+#w1-detail > header {
+	padding: 40px 0;
+	background: url('../img/bg_ws_01.png') no-repeat 0 0;
+	background-size: cover;
+}
+
+section {
+	margin: 20px 0;
+}
+
+.detail h2,
+.detail h3,
+.detail h4 {
+	color: #333;
+	font-weight: 300;
+}
+
+.detail h2 {
+	color: #fff;
+	font-size: 36px;
+	font-size: 3.6rem;
+	font-weight: 200;
+}
+
+.detail h3 {
+	font-size: 22px;
+	font-size: 2.2rem;
+}
+
+.detail h4 {
+	margin-bottom: 10px;
+	color: #1f1f1f;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: 600;
+}
+
+.detail dt {
+	float:left;
+	width: 15%;
+}
+
+.detail dd {
+	float: left;
+	width: 70%;
+	padding: 0;
+	margin: 0 10% 0 5%;
+}
+
+#intro h3 {
+	margin: 0 0 20px 0;
+	font-size: 26px;
+	font-size: 2.6rem;
+}
+
+.trainer {
+	text-align: center;
+}
+
+#trainer-list img {
+	display: block;
+	margin: 10px auto 0 auto;
+}
+
+#trainer-list .trainer + .trainer {
+	margin-top: 40px;
+}
+
+#trainer-list p {
+	font-size: 15px;
+	font-size: 1.5rem;
+	line-height: 18px;
+	line-height: 1.8rem;
+}
+
+.trainer-link {
+	margin-right: 20px;
+	color: #006CD8;
+}
