@@ -84,3 +84,63 @@ ul li {
 #main-menu.nav .open>a:focus {
 	background: none;
 }
+
+/* *************************************
+* *************** Footer ***************
+* ************************************ */
+footer {
+	padding: 30px 0;
+	background-color: #333;
+}
+footer a, footer a:hover {
+	color: #fff;
+	font-weight: 400;
+}
+footer h3 {
+	margin-top: 30px;
+	color: #fff;
+	font-size: 16px;
+	font-size: 1.6rem;
+	text-transform: uppercase;
+}
+footer p {
+	color: #ddd;
+	font-weight: 200;
+}
+#next-workshops a {
+	color: #00BFFF;
+	text-decoration: none;
+}
+#next-workshops a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+/* para que el input y el boton tengan la misma altura se usa line-height */ 
+#subscribe-form input {
+	padding: 0 24px;
+	border: 0;
+	color: #ccc;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: 300;
+	line-height: normal;
+	background-color: #222;
+}
+#subscribe-form button {
+	width: 100%;
+	color: #444;
+	background-color: #eee;
+	line-height: 24px;
+	line-height: 2.4rem;
+}
+
+/* *************************************
+* *************** Generales ************
+* ************************************ */
+.btn-custom {
+	border: 0;
+	border-radius: 2px;
+	font-size: 14px;
+	font-size: 1.4rem;
+	font-weight: 600;
+}
