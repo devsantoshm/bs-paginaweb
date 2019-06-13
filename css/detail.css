@@ -77,3 +77,57 @@ section {
 	margin-right: 20px;
 	color: #006CD8;
 }
+
+
+/* REGISTRATION */
+#registration-badge {
+	width: 80%;
+	margin: 0 auto;
+	font-size: 20px;
+	border: 1px solid #DCE9AF;
+	border-radius: 1px;
+}
+
+	#registration-badge > .price {
+		float: left;
+		width: 50%;
+		margin: 0;
+		
+		color: #666;
+		font-size: 60px;
+		font-size: 6rem;
+		font-weight: 200;
+		text-align: right;
+	}
+
+	#registration-badge > .included {
+		float: left;
+		width: 50%;
+		padding: 10px 0 0 20px;
+
+		color: #888;
+		font-size: 14px;
+		font-size: 1.4rem;
+		line-height: 18px;
+		line-height: 1.8rem;
+		font-weight: 400;
+		text-align: left;
+	}
+
+	#registration-badge > .do-register {
+		display: inline-block;
+		width: 100%;
+		padding: 10px 0;
+		color: #fff;
+		font-size: 16px;
+		font-size: 1.6rem;
+		font-weight: 600;
+		text-align: center;
+		text-decoration: none;
+		background-color: #A3D900;
+	}
+
+	#registration-badge > .do-register:hover {
+		text-decoration: none;
+		background-color: #7CA600;
+	}
