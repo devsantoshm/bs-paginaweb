@@ -59,10 +59,96 @@
 					</section>
 				</div>
 				<div class="col-xs-5">
-					
+					<section id="registration">
+						<h3>Registro</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, accusamus eveniet assumenda ex aliquam dolorem illo facilis odit voluptates quis dicta quibusdam ad cumque asperiores iure iste blanditiis sequi! Similique?</p>
+						<div id="registration-badge">
+							<h3 class="price">99 €</h3>
+							<p class="included">
+								workshop +<br>
+								desayuno +<br>
+								almuerzo
+							</p>
+							<div class="clearfix"></div>
+							<a href="#" class="do-register">ME APUNTO!</a>
+						</div>
+					</section>
+					<section id="agenda">
+						<h3>Agenda del día</h3>
+						<h4><span>W21</span> Sábado 15 septiembre</h4>
+						<dl class="dl-horizontal">
+							<dt>10,00h</dt>
+							<dd>Workshop parte 1/4</dd>
+							<dt>11,45h</dt>
+							<dd>Descanso</dd>
+							<dt>12,00h</dt>
+							<dd>Workshop parte 2/4</dd>
+							<dt>14,00h</dt>
+							<dd>Comida</dd>
+							<dt>16,00h</dt>
+							<dd>Workshop parte 3/4</dd>
+							<dt>17,45h</dt>
+							<dd>Descanso</dd>
+							<dt>18,00h</dt>
+							<dd>Workshop parte 4/4</dd>
+							<dt>19,30h</dt>
+							<dd>Fin workshop</dd>
+						</dl>
+					</section>
 				</div>
 			</div>
 		</div>
+		<section id="table-of-contents">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<h3>Índice de contenidos</h3>
+					</div>
+					<div class="col-xs-4">
+						<h4>1. Frameworks Fron-end</h4>
+						<ul>
+							<li>Item índice primero</li>
+							<li>Item índice segundo</li>
+							<li>Item índice tercero</li>
+						</ul>
+						<h4>2. Segundo punto</h4>
+						<ul>
+							<li>Item índice primero</li>
+							<li>Item índice segundo</li>
+							<li>Item índice tercero</li>
+							<li>Item índice cuarto</li>
+						</ul>
+					</div>
+					<div class="col-xs-4">
+						<h4>3. Tercer punto</h4>
+						<ul>
+							<li>Item índice primero</li>
+							<li>Item índice segundo</li>
+							<li>Item índice tercero</li>
+							<li>Item índice cuarto</li>
+						</ul>
+						<h4>4. Cuarto punto</h4>
+						<ul>
+							<li>Item índice primero</li>
+							<li>Item índice segundo</li>
+							<li>Item índice tercero</li>
+							<li>Item índice cuarto</li>
+						</ul>
+					</div>
+					<div class="col-xs-4">
+						<h4>5. Quinto punto</h4>
+						<ul>
+							<li>Item índice primero</li>
+							<li>Item índice segundo</li>
+							<li>Item índice tercero</li>
+							<li>Item índice cuarto</li>
+							<li>Item índice quinto</li>
+							<li>Item índice sexto</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
 	</article>
 	
 	<?php include 'inc/footer.php'; ?>
