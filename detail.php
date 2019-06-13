@@ -151,9 +151,10 @@
 			</div>
 		</section>
 		<section id="location-info">
+			<div id="map-canvas"></div>
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-5">
+					<div id="hotel-info" class="col-xs-5">
 						<h3>Necesitas alojamiento?</h3>
 						<div class="hotel">
 							<h4>Hotel Navbar 4*</h4>
@@ -207,5 +208,6 @@
 	<?php include 'inc/footer.php'; ?>
 
 	<?php include 'inc/footer_common.php'; ?>
+	
 </body>
 </html>
