@@ -37,7 +37,7 @@
 						<h3 class="highlighted">15 plazas</h3>
 						<h3 class="highlighted">120 €</h3>
 					</div>
-					<div class="col-xs-12 col-sm-6 col-md-8 col-lg-6 main-info">
+					<div class="col-xs-12 col-sm-9 col-md-8 col-lg-6 main-info">
 						<h2>Desarrolla aplicaciones multiplataforma con Adobe AIR</h2>
 						<p>Sorpréndete de lo fácil que puede ser crera apps para iOS y Android con este workshop impartido por <a href="#">Alberto Ordás</a>.</p>
 						<a href="detail.php" class="more-info-link">quiero más información</a>
