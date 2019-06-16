@@ -221,6 +221,25 @@ section {
 		text-align: left;
 	}
 
+	#table-of-contents ul {
+		margin: 0 0 40px 0;
+	}
+
+	#location-info {
+		position: relative;
+		height: 300px;
+	}
+
+	#map-canvas {
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+
+	#hotel-info {
+		height: 300px;
+	}
+
 }
 
 @media (min-width: 992px) {

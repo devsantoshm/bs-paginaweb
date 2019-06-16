@@ -105,7 +105,7 @@
 					<div class="col-xs-12">
 						<h3>Índice de contenidos</h3>
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-4">
 						<h4>1. Frameworks Fron-end</h4>
 						<ul>
 							<li>Item índice primero</li>
@@ -120,7 +120,7 @@
 							<li>Item índice cuarto</li>
 						</ul>
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-4">
 						<h4>3. Tercer punto</h4>
 						<ul>
 							<li>Item índice primero</li>
@@ -136,7 +136,7 @@
 							<li>Item índice cuarto</li>
 						</ul>
 					</div>
-					<div class="col-xs-4">
+					<div class="col-xs-12 col-sm-4">
 						<h4>5. Quinto punto</h4>
 						<ul>
 							<li>Item índice primero</li>
@@ -154,7 +154,7 @@
 			<div id="map-canvas"></div>
 			<div class="container">
 				<div class="row">
-					<div id="hotel-info" class="col-xs-5">
+					<div id="hotel-info" class="col-xs-12 col-sm-5 col-sm-offset-2">
 						<h3>Necesitas alojamiento?</h3>
 						<div class="hotel">
 							<h4>Hotel Navbar 4*</h4>
