@@ -21,7 +21,7 @@
 		</header>
 		<div class="container">
 			<div class="row">
-				<div class="col-xs-7">
+				<div class="col-xs-12 col-sm-7">
 					<section id="intro">
 						<h3>En este workshop aprenderás...</h3>
 						<p>En este workshop de 7 horas de duración Marcos González y Armando Sotoca te mostrarán como optimizar tu flujo de trabajo a la hora de realizar el front-end de un proyecto web. La metodología apoyada en el framework Bootstrap 3 parte desde la fase de diseño hasta finalizar en la fase de desarrollo. Aprenderás a diseñar para Bootstrap, a orientar el diseño bajo la filosofía mobile first y responsive web design y descubrirás la metodología adecuada para convertir ese diseño en una maqueta HTML5 de una forma ágil y sencilla.</p>	
@@ -30,10 +30,10 @@
 					<section id="trainer-list">
 						<h3>Los formadores</h3>
 						<div class="trainer row">
-							<div class="col-xs-4">
+							<div class="col-xs-12 col-sm-4">
 								<img src="img/marcos_profile.png" alt="Marcos González">
 							</div>
-							<div class="col-xs-8">
+							<div class="col-xs-12 col-sm-8">
 								<h4>Marcos González</h4>
 								<p>
 									Fundador y director de [Q] interactiva.<br/>
@@ -44,10 +44,10 @@
 							</div>
 						</div>
 						<div class="trainer row">
-							<div class="col-xs-4">
+							<div class="col-xs-12 col-sm-4">
 								<img src="img/armando_profile.png" alt="Armando Sotoca">
 							</div>
-							<div class="col-xs-8">
+							<div class="col-xs-12 col-sm-8">
 								<h4>Armando Sotoca</h4>
 								<p>
 									Diseñador todoterreno en [Q] interactiva.<br/>
@@ -59,7 +59,7 @@
 						</div>
 					</section>
 				</div>
-				<div class="col-xs-5">
+				<div class="col-xs-12 col-sm-5">
 					<section id="registration">
 						<h3>Registro</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, accusamus eveniet assumenda ex aliquam dolorem illo facilis odit voluptates quis dicta quibusdam ad cumque asperiores iure iste blanditiis sequi! Similique?</p>
